@@ -1,0 +1,15 @@
+* Version 0.1 :
+        Initial release.
+    
+* Version 0.2 :
+        Reconnect when the connection has been dropped.
+        Find PORT sequence numbers.
+    
+* Version 0.3 :    
+        Debug mode (-d)
+        Resend username/password when reconnecting.
+* Version 0.5 :
+	Anonymous login check.
+	Add vulnerables check.
+	search for exploit in exploit-db.com.
+	Code started from scratch with some code from ftpmap-0.4.
