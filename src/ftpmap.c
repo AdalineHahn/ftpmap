@@ -1,4 +1,4 @@
-/*  ftpmap.c - the FTP-Map project
+/!  ftpmap.c - the FTP-Map project
  
   Copyleft 2015 by Hypsurus <hypsurus@mail.ru> 
   Copyleft 2001-2002 by Jedi/Sector One <j@4u.net> 
@@ -464,3 +464,4 @@ int main(int argc, char **argv) {
     return 0;
 }
 
+ 
